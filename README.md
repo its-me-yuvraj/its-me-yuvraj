@@ -12,3 +12,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuvraj2675&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=00FF00&bg_color=000000">
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
