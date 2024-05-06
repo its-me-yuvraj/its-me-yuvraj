@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      CSS
     </td>
  <tr>
             <td align="center" width="96">
