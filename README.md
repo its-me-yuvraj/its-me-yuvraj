@@ -1,5 +1,6 @@
-
-# Hey there ! I am Yuvraj Jadhav ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Yuvraj+Jadhav!;" />
+</h1>
 
 <p> 
   Visitor count<br>
