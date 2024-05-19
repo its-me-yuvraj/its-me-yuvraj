@@ -59,7 +59,7 @@
       <br>VsCode
     </td>
      <td align="center" width="96">
-        <img src="./Assets/VS.jpg" alt="icon" width="65" height="65" />
+        <img src="./Assets/VS.png" alt="icon" width="65" height="65" />
       <br>VS
     </td>
  </tr>
