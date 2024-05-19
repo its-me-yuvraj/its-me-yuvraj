@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Yuvraj+Jadhav!;" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=3000&pause=1000&color=00F702&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+Yuvraj+Jadhav+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F702&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+Yuvraj+Jadhav+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yuvraj2675/count.svg" />
