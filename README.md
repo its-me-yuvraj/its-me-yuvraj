@@ -7,7 +7,7 @@
     💫 About Me:<br>- 
     💻 Passionate about .NET development.<br>- 🛠️ Currently working on .NET projects, specializing in migrating old VB.NET projects into the modern .NET framework.<br>- 🤝 Looking to collaborate on projects that involve problem-solving and have a clear goal in mind.<br>- 🎯 Keen on tackling challenging tasks and diving into fun projects.<br>- 🌱 Currently learning .NET Core to further expand my skill set.<br>- 🔗 Let's connect and build something awesome together!
   </div>
-  <br>-
+  <br>
   <div style="text-align: right;">
     <p style="margin-bottom: 0;">Visitors:</p>
     <img src="https://profile-counter.glitch.me/yuvraj2675/count.svg" />
