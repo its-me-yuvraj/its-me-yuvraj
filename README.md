@@ -2,7 +2,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=1000&pause=1000&color=00F702&center=true&vCenter=true&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+Yuvraj+Jadhav+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
- # 💫 About Me:<br>- 
+ 💫 About Me:<br>- 
 💻 Passionate about .NET development.<br>- 🛠️ Currently working on .NET projects, specializing in migrating old VB.NET projects into the modern .NET framework.<br>- 🤝 Looking to collaborate on projects that involve problem-solving and have a clear goal in mind.<br>- 🎯 Keen on tackling challenging tasks and diving into fun projects.<br>- 🌱 Currently learning .NET Core to further expand my skill set.<br>- 🔗 Let's connect and build something awesome together!
 <p> 
   Visitor count<br>
@@ -90,3 +90,14 @@
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./Assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yuvraj2675&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yuvraj2675&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
