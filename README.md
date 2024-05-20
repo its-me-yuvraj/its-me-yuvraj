@@ -83,15 +83,13 @@
 
 <p align="center">
 <a href="https://wakatime.com/@yuvraj2675"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuvraj2675&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
-<a href="https://github.com/yuvraj2675?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj2675&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Yuvraj's trophy stats"/></a>
+<a href="https://github.com/yuvraj2675?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj2675&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="@Yuvraj's trophy stats"/></a>
 </p>
 
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./Assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvraj2675&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
