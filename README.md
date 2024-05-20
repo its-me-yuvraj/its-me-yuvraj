@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=1000&pause=1000&color=00F702&center=true&vCenter=true&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+Yuvraj+Jadhav+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 <p> 
-  <img src="https://profile-counter.glitch.me/yuvraj2675/count.svg" style="float:left"/>
+  <img src="https://profile-counter.glitch.me/yuvraj2675/count.svg" style="fixed:left"/>
   <br>
 </p>
  💫 About Me:<br>- 
