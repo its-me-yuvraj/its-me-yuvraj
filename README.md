@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@its-me-yuvraj"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=its-me-yuvraj&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
+<a href="https://wakatime.com/@itsmeyuvraj"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmeyuvraj&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
 <a href="https://github.com/its-me-yuvraj?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=its-me-yuvraj&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="@Yuvraj's trophy stats"/></a>
 </p>
 
