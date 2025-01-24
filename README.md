@@ -108,4 +108,5 @@
 
 ### 😂 Random Dev Meme
 <img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" width="512px"/>
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmyuvraj&layout=compact&theme=dark)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
