@@ -85,7 +85,9 @@
     <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-me-yuvraj&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
+ <a href="https://wakatime.com/@77f9d99e-ebe1-4290-8676-4cdb8b240998"><img src="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998.svg" alt="Total time coded since May 6 2024" /></a>
 </p>
+
 
 <p align="center">
 <a href="https://wakatime.com/@itsmeyuvraj"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmeyuvraj&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
