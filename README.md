@@ -10,13 +10,13 @@
   <br>
   <div style="text-align: right;">
     <p style="margin-bottom: 0;">Visitors:</p>
-    <img src="https://profile-counter.glitch.me/yuvraj2675/count.svg" />
+    <img src="https://profile-counter.glitch.me/its-me-yuvraj/count.svg" />
   </div>
 </div>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/yuvraj2675@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yuvraj2675@gmail.com">   <a href="https://www.linkedin.com/in/itsmeyuvraj/"><img src="https://img.shields.io/badge/Yuvraj Jadhav-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.instagram.com/yuvrrraaaaj/"><img src="https://img.shields.io/badge/@yuvrrraaaaaj_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/its-me-yuvraj@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="its-me-yuvraj@gmail.com">   <a href="https://www.linkedin.com/in/itsmeyuvraj/"><img src="https://img.shields.io/badge/Yuvraj Jadhav-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.instagram.com/yuvrrraaaaj/"><img src="https://img.shields.io/badge/@yuvrrraaaaaj_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <hr>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
@@ -74,22 +74,22 @@
 </table>
 
 </div>
-<a href="https://github.com/yuvraj2675?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yuvraj2675&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/yuvraj2675?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yuvraj2675&theme=gotham&hide_border=true"  width="48%" alt="@Yuvraj's github-readme-streak-stats"/></a>
-<!-- <a > <img src = "https://streak-stats.demolab.com/?user=yuvraj2675"</a> -->
+<a href="https://github.com/its-me-yuvraj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=its-me-yuvraj&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/its-me-yuvraj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-me-yuvraj&theme=gotham&hide_border=true"  width="48%" alt="@Yuvraj's github-readme-streak-stats"/></a>
+<!-- <a > <img src = "https://streak-stats.demolab.com/?user=its-me-yuvraj"</a> -->
 
 
 <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./Assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj2675&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-me-yuvraj&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@yuvraj2675"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuvraj2675&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
-<a href="https://github.com/yuvraj2675?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj2675&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="@Yuvraj's trophy stats"/></a>
+<a href="https://wakatime.com/@its-me-yuvraj"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=its-me-yuvraj&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
+<a href="https://github.com/its-me-yuvraj?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=its-me-yuvraj&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="@Yuvraj's trophy stats"/></a>
 </p>
 
 
@@ -101,7 +101,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yuvraj2675&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=its-me-yuvraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" width="512px"/>
