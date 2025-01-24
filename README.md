@@ -16,7 +16,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/its-me-yuvraj@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="its-me-yuvraj@gmail.com">   <a href="https://www.linkedin.com/in/itsmeyuvraj/"><img src="https://img.shields.io/badge/Yuvraj Jadhav-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.instagram.com/yuvrrraaaaj/"><img src="https://img.shields.io/badge/@yuvrrraaaaaj_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/yuvraj2675@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yuvraj2675@gmail.com">   <a href="https://www.linkedin.com/in/itsmeyuvraj/"><img src="https://img.shields.io/badge/Yuvraj Jadhav-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.instagram.com/yuvrrraaaaj/"><img src="https://img.shields.io/badge/@yuvrrraaaaaj_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <hr>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
