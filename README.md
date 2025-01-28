@@ -74,8 +74,13 @@
 </table>
 
 </div>
-<a href="https://github.com/its-me-yuvraj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=its-me-yuvraj&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/its-me-yuvraj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-me-yuvraj&theme=gotham&hide_border=true"  width="48%" alt="@Yuvraj's github-readme-streak-stats"/></a>
+<div align="center" >
+ 
+<a href="https://github.com/its-me-yuvraj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=its-me-yuvraj&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Yuvraj's github-readme-stats"/></a>
+</a> 
+</div>
+<!-- <a href="https://github.com/its-me-yuvraj?tab=stars"> -->
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-me-yuvraj&theme=gotham&hide_border=true"  width="48%" alt="@Yuvraj's github-readme-streak-stats"/>-->
 <!-- <a > <img src = "https://streak-stats.demolab.com/?user=its-me-yuvraj"</a> -->
 
 
