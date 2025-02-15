@@ -108,6 +108,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+![Wink Smile](https://github.com/its-me-yuvraj/its-me-yuvraj/blob/main/Assets/wink-smile.gif?raw=true)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=its-me-yuvraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
