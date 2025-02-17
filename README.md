@@ -91,7 +91,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-me-yuvraj&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 <a href="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998/project/0868b695-4d10-4a99-8628-b92a9dfc53ad"><img src="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998/project/0868b695-4d10-4a99-8628-b92a9dfc53ad.svg" alt="wakatime"></a>
-<a href="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998/project/c90e4e94-d800-4fa8-bd57-9fb64b2573db"><img src="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998/project/c90e4e94-d800-4fa8-bd57-9fb64b2573db.svg" alt="wakatime"></a>
+
 </p>
 
 
