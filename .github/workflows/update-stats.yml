@@ -36,6 +36,16 @@ jobs:
           ALL_REPOS="$PERSONAL_REPOS $ORG_REPOS"
 
           for REPO_URL in $ALL_REPOS; do
+
+             # Only process these two org repos, skip everything else
+            if [[ "$REPO_URL" == *"VendorBill_Web_App"* ]]; then
+              BRANCH="UAT_FIXES_NEW"
+            elif [[ "$REPO_URL" == *"Rental_Application"* ]]; then
+              BRANCH="Sub_master"
+            else
+              continue
+            fi
+            
             echo "Processing $REPO_URL"
             AUTH_URL=$(echo "$REPO_URL" | sed "s|https://|https://$GH_PAT@|")
             git clone --quiet "$AUTH_URL" temp_repo 2>/dev/null || continue
