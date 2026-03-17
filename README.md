@@ -12,9 +12,6 @@
     <p style="margin-bottom: 0;">Visitors:</p>
     <img src="https://komarev.com/ghpvc/?username=itsmeyuvraj&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS" />
   </div>
-  <div align="center">
-  <img src="./stats.svg" alt="My LOC Stats" />
-</div>
 </div>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
@@ -96,11 +93,13 @@
 <!-- <a href="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998/project/0868b695-4d10-4a99-8628-b92a9dfc53ad"><img src="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998/project/0868b695-4d10-4a99-8628-b92a9dfc53ad.svg" alt="wakatime"></a> -->
 <a href="https://wakatime.com/@77f9d99e-ebe1-4290-8676-4cdb8b240998"><img src="https://wakatime.com/badge/user/77f9d99e-ebe1-4290-8676-4cdb8b240998.svg" alt="Total time coded since May 6 2024" /></a>
 </p>
+ <div align="center">
+  <img src="./stats.svg" alt="My LOC Stats" />
+</div>
 
 
 <p align="center">
 <a href="https://wakatime.com/@itsmeyuvraj"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmeyuvraj&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Yuvraj's stats"/></a>
-<a href="https://github.com/its-me-yuvraj?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=its-me-yuvraj&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="@Yuvraj's trophy stats"/></a>
 </p>
 
 
