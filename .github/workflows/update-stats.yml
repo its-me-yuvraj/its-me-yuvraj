@@ -2,7 +2,11 @@ name: Update LOC Stats
 
 on:
   push:
-    branches: [main]
+    branches: 
+      - main
+      - master
+      - UAT_FIXES_NEW
+      - Sub_master
   schedule:
     - cron: '0 0 * * *'
 
