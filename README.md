@@ -12,9 +12,9 @@
     <p style="margin-bottom: 0;">Visitors:</p>
     <img src="https://profile-counter.glitch.me/its-me-yuvraj/count.svg" />
   </div>
-  <div style="align-item:center;">
-    ![My LOC Stats](./stats.svg) 
-  </div>
+  <div align="center">
+  <img src="./stats.svg" alt="My LOC Stats" />
+</div>
 </div>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
