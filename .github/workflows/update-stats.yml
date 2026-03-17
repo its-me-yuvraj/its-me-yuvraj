@@ -48,7 +48,7 @@ jobs:
             
             echo "Processing $REPO_URL"
             AUTH_URL=$(echo "$REPO_URL" | sed "s|https://|https://$GH_PAT@|")
-            git clone --quiet "$AUTH_URL" temp_repo 2>/dev/null || continue
+            git clone --quiet --branch "$BRANCH" "$AUTH_URL" temp_repo 2>/dev/null || continue
 
             cd temp_repo
 
