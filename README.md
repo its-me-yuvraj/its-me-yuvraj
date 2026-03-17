@@ -10,7 +10,7 @@
   <br>
   <div style="text-align: right;">
     <p style="margin-bottom: 0;">Visitors:</p>
-    <img src="https://profile-counter.glitch.me/its-me-yuvraj/count.svg" />
+    <img src="https://komarev.com/ghpvc/?username=itsmeyuvraj&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS" />
   </div>
   <div align="center">
   <img src="./stats.svg" alt="My LOC Stats" />
