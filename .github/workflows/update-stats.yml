@@ -1,12 +1,9 @@
 name: Update LOC Stats
 
 on:
-  push:
-    branches: 
-      - UAT_FIXES_NEW
-      - Sub_master
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # runs every midnight
+  workflow_dispatch:      # run manually anytime
 
 jobs:
   update-stats:
