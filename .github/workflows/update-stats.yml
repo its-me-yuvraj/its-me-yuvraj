@@ -3,8 +3,6 @@ name: Update LOC Stats
 on:
   push:
     branches: 
-      - main
-      - master
       - UAT_FIXES_NEW
       - Sub_master
   schedule:
