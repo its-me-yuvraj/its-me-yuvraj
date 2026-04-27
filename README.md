@@ -116,6 +116,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=its-me-yuvraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" width="512px"/>
+![](https://readme-jokes.vercel.app/api?theme=dark)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
